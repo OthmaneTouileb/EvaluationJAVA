@@ -1,0 +1,32 @@
+RÉPONSES AU QUIZ
+
+Question 1: style="white-space:
+Explication: L'attribut style manque dans la balise <strong> pour définir white-space: pre-wrap;
+
+Question 2: calculer
+Explication: Un bureau d'études souhaite suivre le temps passé sur les projets et calculer les coûts globaux
+
+Question 3: citoyens
+Explication: Créer une application permettant de gérer les citoyens et leurs relations matrimoniales dans une province
+
+Question 4: C'est un concept clé pour comprendre le sujet
+Explication: API (Application Programming Interface) est essentiel pour le développement d'applications
+
+Question 5: C'est un concept clé pour comprendre le sujet
+Explication: Les fonctions sont fondamentales en programmation
+
+Question 6: C'est un concept clé pour comprendre le sujet
+Explication: Les méthodes sont essentielles en programmation orientée objet
+
+Question 7: C'est un concept clé pour comprendre le sujet
+Explication: Les classes sont fondamentales en programmation orientée objet
+
+Question 8: C'est un concept clé pour comprendre le sujet
+Explication: Les bases de données sont essentielles pour stocker et gérer les données
+
+Question 9: C'est un concept clé pour comprendre le sujet
+Explication: SQL est le langage standard pour interroger et manipuler les bases de données
+
+Question 10: C'est un concept clé pour comprendre le sujet
+Explication: HTTP est le protocole fondamental pour la communication web
+
